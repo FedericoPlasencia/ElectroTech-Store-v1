@@ -1,0 +1,4 @@
+import React from 'react'
+import { Link } from 'react-router-dom'
+import { useCart } from '../context/CartContext.jsx'
+export default function ProductCard({p}){ const { addToCart } = useCart(); return (<div className='bg-white rounded shadow p-3 flex flex-col'><Link to={'/product/'+p.id}><img src={p.image} alt={p.name} className='w-full h-48 object-cover rounded' /></Link><h3 className='font-semibold mt-2'>{p.name}</h3><p className='text-sm text-gray-600 flex-1'>{p.description}</p><div className='mt-3 flex items-center justify-between'><div className='font-bold'>${p.price}</div><div className='flex flex-col items-end'><button onClick={()=>addToCart(p)} className='btn-primary'>Añadir</button><a className='mt-2 text-sm' href={`https://wa.me/+5491122850681?text=${encodeURIComponent('Hola! Quiero info sobre '+p.name)}`} target='_blank' rel='noreferrer'>WhatsApp</a></div></div></div>) }

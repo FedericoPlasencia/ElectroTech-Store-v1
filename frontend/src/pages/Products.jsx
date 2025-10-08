@@ -1,0 +1,4 @@
+import React, { useState } from 'react'
+import ProductCard from '../components/ProductCard.jsx'
+import products from '../data/seed-data.json'
+export default function Products(){ const cats = ['Todos', ...Array.from(new Set(products.map(p=>p.category)))]; const [cat, setCat] = useState('Todos'); const filtered = cat==='Todos' ? products : products.filter(p=>p.category===cat); return (<div className='p-8'><h2 className='text-3xl font-bold text-[#007BFF] mb-4'>Catálogo</h2><div className='flex gap-3 flex-wrap mb-6'>{cats.map(c=> <button key={c} onClick={()=>setCat(c)} className={`px-3 py-2 rounded ${cat===c ? 'bg-[#007BFF] text-white' : 'bg-white'}`}>{c}</button>)}</div><div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6'>{filtered.map(p=> <ProductCard key={p.id} p={p} />)}</div></div>) }

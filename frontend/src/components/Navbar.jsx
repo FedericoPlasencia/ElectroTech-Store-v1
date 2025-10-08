@@ -1,0 +1,5 @@
+import React from 'react'
+import { Link, useNavigate } from 'react-router-dom'
+import SearchBar from './SearchBar.jsx'
+import { useCart } from '../context/CartContext.jsx'
+export default function Navbar(){ const { cart } = useCart(); const navigate = useNavigate(); return (<header className='bg-white shadow sticky top-0 z-40'><div className='container mx-auto flex items-center justify-between p-4'><div className='flex items-center gap-6'><Link to='/' className='text-2xl font-bold' style={{color:'#007BFF'}}>ElectroTech Store</Link><nav className='hidden md:flex gap-4 text-sm'><Link to='/products' className='hover:text-[#007BFF]'>Productos</Link><Link to='/admin' className='hover:text-[#007BFF]'>Admin</Link></nav></div><div className='flex items-center gap-4'><SearchBar /><button onClick={()=> navigate('/cart')} className='relative text-xl'>🛒{cart.length>0 && <span className='absolute -top-2 -right-2 bg-green-500 text-white text-xs rounded-full px-2'>{cart.length}</span>}</button></div></div></header>) }

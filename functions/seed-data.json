@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Pixelia Modelo 834",
+    "brand": "Pixelia",
+    "category": "Electrodomésticos",
+    "price": 230020,
+    "description": "Pixelia ligero, ideal para uso diario.",
+    "image": "/images/celular.jpg"
+  },
+  {
+    "id": 2,
+    "name": "NovaTech Modelo 309",
+    "brand": "NovaTech",
+    "category": "Electrodomésticos",
+    "price": 157451,
+    "description": "NovaTech compacto, ideal para uso diario.",
+    "image": "/images/parlante.jpg"
+  },
+  {
+    "id": 3,
+    "name": "NovaTech Modelo 930",
+    "brand": "NovaTech",
+    "category": "TV y Audio",
+    "price": 55634,
+    "description": "NovaTech ligero, ideal para uso diario.",
+    "image": "/images/heladera.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Aceron Modelo 638",
+    "brand": "Aceron",
+    "category": "Celulares",
+    "price": 128191,
+    "description": "Aceron ligero, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 5,
+    "name": "XPhone Modelo 516",
+    "brand": "XPhone",
+    "category": "Electrodomésticos",
+    "price": 68563,
+    "description": "XPhone ligero, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 6,
+    "name": "NovaTech Modelo 344",
+    "brand": "NovaTech",
+    "category": "Accesorios",
+    "price": 160006,
+    "description": "NovaTech compacto, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 7,
+    "name": "Aceron Modelo 896",
+    "brand": "Aceron",
+    "category": "Accesorios",
+    "price": 65275,
+    "description": "Aceron ligero, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 8,
+    "name": "NovaTech Modelo 666",
+    "brand": "NovaTech",
+    "category": "Electrodomésticos",
+    "price": 85418,
+    "description": "NovaTech ligero, ideal para uso diario.",
+    "image": "/images/tv.jpg"
+  },
+  {
+    "id": 9,
+    "name": "NovaTech Modelo 981",
+    "brand": "NovaTech",
+    "category": "Celulares",
+    "price": 180031,
+    "description": "NovaTech compacto, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 10,
+    "name": "NovaTech Modelo 312",
+    "brand": "NovaTech",
+    "category": "TV y Audio",
+    "price": 183321,
+    "description": "NovaTech compacto, ideal para uso diario.",
+    "image": "/images/parlante.jpg"
+  },
+  {
+    "id": 11,
+    "name": "HomePro Modelo 995",
+    "brand": "HomePro",
+    "category": "Electrodomésticos",
+    "price": 85829,
+    "description": "HomePro potente, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Aceron Modelo 449",
+    "brand": "Aceron",
+    "category": "TV y Audio",
+    "price": 72376,
+    "description": "Aceron potente, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Aceron Modelo 683",
+    "brand": "Aceron",
+    "category": "Electrodomésticos",
+    "price": 249421,
+    "description": "Aceron potente, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 14,
+    "name": "SoundX Modelo 437",
+    "brand": "SoundX",
+    "category": "Celulares",
+    "price": 21845,
+    "description": "SoundX compacto, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Soniq Modelo 572",
+    "brand": "Soniq",
+    "category": "Accesorios",
+    "price": 198065,
+    "description": "Soniq duradero, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 16,
+    "name": "XPhone Modelo 222",
+    "brand": "XPhone",
+    "category": "Accesorios",
+    "price": 196504,
+    "description": "XPhone potente, ideal para uso diario.",
+    "image": "/images/tv.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Pixelia Modelo 685",
+    "brand": "Pixelia",
+    "category": "Celulares",
+    "price": 130408,
+    "description": "Pixelia duradero, ideal para uso diario.",
+    "image": "/images/tv.jpg"
+  },
+  {
+    "id": 18,
+    "name": "XPhone Modelo 605",
+    "brand": "XPhone",
+    "category": "Electrodomésticos",
+    "price": 235002,
+    "description": "XPhone potente, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Pixelia Modelo 324",
+    "brand": "Pixelia",
+    "category": "Accesorios",
+    "price": 47696,
+    "description": "Pixelia duradero, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 20,
+    "name": "XPhone Modelo 641",
+    "brand": "XPhone",
+    "category": "Celulares",
+    "price": 132061,
+    "description": "XPhone potente, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 21,
+    "name": "ElectroMax Modelo 394",
+    "brand": "ElectroMax",
+    "category": "Electrodomésticos",
+    "price": 252340,
+    "description": "ElectroMax potente, ideal para uso diario.",
+    "image": "/images/celular.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Soniq Modelo 625",
+    "brand": "Soniq",
+    "category": "Celulares",
+    "price": 244309,
+    "description": "Soniq compacto, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 23,
+    "name": "HomePro Modelo 302",
+    "brand": "HomePro",
+    "category": "Computadoras",
+    "price": 48534,
+    "description": "HomePro potente, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 24,
+    "name": "ElectroMax Modelo 428",
+    "brand": "ElectroMax",
+    "category": "Electrodomésticos",
+    "price": 115838,
+    "description": "ElectroMax compacto, ideal para uso diario.",
+    "image": "/images/heladera.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Aceron Modelo 150",
+    "brand": "Aceron",
+    "category": "Electrodomésticos",
+    "price": 27248,
+    "description": "Aceron compacto, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 26,
+    "name": "ElectroMax Modelo 846",
+    "brand": "ElectroMax",
+    "category": "Electrodomésticos",
+    "price": 152561,
+    "description": "ElectroMax duradero, ideal para uso diario.",
+    "image": "/images/parlante.jpg"
+  },
+  {
+    "id": 27,
+    "name": "HomePro Modelo 371",
+    "brand": "HomePro",
+    "category": "Accesorios",
+    "price": 123654,
+    "description": "HomePro ligero, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Aceron Modelo 206",
+    "brand": "Aceron",
+    "category": "TV y Audio",
+    "price": 234110,
+    "description": "Aceron potente, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 29,
+    "name": "ElectroMax Modelo 337",
+    "brand": "ElectroMax",
+    "category": "Accesorios",
+    "price": 214556,
+    "description": "ElectroMax duradero, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Soniq Modelo 816",
+    "brand": "Soniq",
+    "category": "Celulares",
+    "price": 134376,
+    "description": "Soniq compacto, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Aceron Modelo 433",
+    "brand": "Aceron",
+    "category": "Celulares",
+    "price": 193526,
+    "description": "Aceron duradero, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 32,
+    "name": "HomePro Modelo 695",
+    "brand": "HomePro",
+    "category": "Accesorios",
+    "price": 212425,
+    "description": "HomePro potente, ideal para uso diario.",
+    "image": "/images/celular.jpg"
+  },
+  {
+    "id": 33,
+    "name": "SoundX Modelo 946",
+    "brand": "SoundX",
+    "category": "Electrodomésticos",
+    "price": 138649,
+    "description": "SoundX potente, ideal para uso diario.",
+    "image": "/images/tv.jpg"
+  },
+  {
+    "id": 34,
+    "name": "SoundX Modelo 709",
+    "brand": "SoundX",
+    "category": "Accesorios",
+    "price": 25687,
+    "description": "SoundX compacto, ideal para uso diario.",
+    "image": "/images/heladera.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Aceron Modelo 225",
+    "brand": "Aceron",
+    "category": "Accesorios",
+    "price": 38569,
+    "description": "Aceron compacto, ideal para uso diario.",
+    "image": "/images/parlante.jpg"
+  },
+  {
+    "id": 36,
+    "name": "SoundX Modelo 167",
+    "brand": "SoundX",
+    "category": "Computadoras",
+    "price": 103351,
+    "description": "SoundX ligero, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 37,
+    "name": "ElectroMax Modelo 985",
+    "brand": "ElectroMax",
+    "category": "Accesorios",
+    "price": 141854,
+    "description": "ElectroMax ligero, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  },
+  {
+    "id": 38,
+    "name": "XPhone Modelo 312",
+    "brand": "XPhone",
+    "category": "TV y Audio",
+    "price": 232913,
+    "description": "XPhone ligero, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 39,
+    "name": "Soniq Modelo 324",
+    "brand": "Soniq",
+    "category": "Celulares",
+    "price": 39350,
+    "description": "Soniq ligero, ideal para uso diario.",
+    "image": "/images/monitor.jpg"
+  },
+  {
+    "id": 40,
+    "name": "XPhone Modelo 742",
+    "brand": "XPhone",
+    "category": "Accesorios",
+    "price": 181624,
+    "description": "XPhone potente, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 41,
+    "name": "NovaTech Modelo 763",
+    "brand": "NovaTech",
+    "category": "TV y Audio",
+    "price": 251997,
+    "description": "NovaTech ligero, ideal para uso diario.",
+    "image": "/images/tv.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Aceron Modelo 643",
+    "brand": "Aceron",
+    "category": "Computadoras",
+    "price": 123360,
+    "description": "Aceron ligero, ideal para uso diario.",
+    "image": "/images/heladera.jpg"
+  },
+  {
+    "id": 43,
+    "name": "HomePro Modelo 442",
+    "brand": "HomePro",
+    "category": "Electrodomésticos",
+    "price": 121388,
+    "description": "HomePro ligero, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 44,
+    "name": "NovaTech Modelo 604",
+    "brand": "NovaTech",
+    "category": "Computadoras",
+    "price": 196448,
+    "description": "NovaTech duradero, ideal para uso diario.",
+    "image": "/images/no-image.png"
+  },
+  {
+    "id": 45,
+    "name": "Soniq Modelo 499",
+    "brand": "Soniq",
+    "category": "Computadoras",
+    "price": 22937,
+    "description": "Soniq ligero, ideal para uso diario.",
+    "image": "/images/auriculares.jpg"
+  },
+  {
+    "id": 46,
+    "name": "ElectroMax Modelo 460",
+    "brand": "ElectroMax",
+    "category": "Computadoras",
+    "price": 221037,
+    "description": "ElectroMax compacto, ideal para uso diario.",
+    "image": "/images/celular.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Pixelia Modelo 258",
+    "brand": "Pixelia",
+    "category": "Computadoras",
+    "price": 177987,
+    "description": "Pixelia duradero, ideal para uso diario.",
+    "image": "/images/parlante.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Soniq Modelo 357",
+    "brand": "Soniq",
+    "category": "Accesorios",
+    "price": 37826,
+    "description": "Soniq duradero, ideal para uso diario.",
+    "image": "/images/heladera.jpg"
+  },
+  {
+    "id": 49,
+    "name": "ElectroMax Modelo 338",
+    "brand": "ElectroMax",
+    "category": "Celulares",
+    "price": 20167,
+    "description": "ElectroMax potente, ideal para uso diario.",
+    "image": "/images/heladera.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Aceron Modelo 996",
+    "brand": "Aceron",
+    "category": "Celulares",
+    "price": 196347,
+    "description": "Aceron duradero, ideal para uso diario.",
+    "image": "/images/notebook.jpg"
+  }
+]
