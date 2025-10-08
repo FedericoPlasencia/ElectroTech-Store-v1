@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Pixelia Modelo 834",
-    "brand": "Pixelia",
+    "name": "Iphone 13",
+    "brand": "Iphone",
     "category": "Electrodomésticos",
-    "price": 230020,
-    "description": "Pixelia ligero, ideal para uso diario.",
-    "image": "/images/celular.jpg"
+    "price": 30020,
+    "description": "Iphone 13 ligero, ideal para uso diario.",
+    "image": "/images/iphone13.jpg"
   },
   {
     "id": 2,
